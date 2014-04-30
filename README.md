@@ -37,21 +37,21 @@ Docs:
 * HTTP 1.1 (RFC 2616): http://www.faqs.org/rfcs/rfc2616.html
 * Condition variables: http://www.cs.cf.ac.uk/Dave/C/node31.html
 * Uniform Resource Identifier (RFC 2396): http://www.faqs.org/rfcs/rfc2396.html
-* Path computing: "A* Algorithm":http://en.wikipedia.org/wiki/A_Star_Search_Algorithm
+* Path computing: "A Star Algorithm":http://en.wikipedia.org/wiki/A_Star_Search_Algorithm
 
 TODO
 ----
 
-# Move the following TODO stuff to the tracker
-# threaded TCP server --- **done**
-# threaded TCP client
-# IPv6 support
-# HTTP in a generic library, based on the RFC --- **in progress**
-# Exchange data between nodes (on the "chandail"). Use URLs. RTFM on REST
-# Parsing of crontab files
-# Follow the clock and handle special cases like daylight saving time switches.
-# Execute commands and take care of the shell environment
-# crontab edition (unix domain socket? setuid binary (like vixie-cron)?)
+* Move the following TODO stuff to the tracker
+* threaded TCP server --- **done**
+* threaded TCP client
+* IPv6 support
+* HTTP in a generic library, based on the RFC --- **in progress**
+* Exchange data between nodes (on the "chandail"). Use URLs. RTFM on REST
+* Parsing of crontab files
+* Follow the clock and handle special cases like daylight saving time switches.
+* Execute commands and take care of the shell environment
+* crontab edition (unix domain socket? setuid binary (like vixie-cron)?)
 
 
 Friendly competition
